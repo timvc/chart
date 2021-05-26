@@ -1,4 +1,0 @@
-[gfcli]
-[[gfcli.gen.dao]]
-        link   ="mysql:root:12345678@tcp(127.0.0.1:3306)/user"
-	group="user"
